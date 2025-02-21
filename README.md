@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/43780137/158059050-481ffa30-e415-4156-
 
 As the name suggests, this project is a clone of a famous Q/A website for professional and enthusiast programmers built solely by me using a completely different stack.
 
-This repo consists of the Frontend code of the project, the backend code is in __[Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)__
+This repo consists of the Frontend code of the project, the backend code is in __[Stackoverflow-Clone-Backend](https://github.com/dreamdev0508/Stackoverflow-Clone-Backend)__
 
 ## My Tech Stack (MERN)
 
@@ -50,7 +50,7 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
    - Clone the code & install the modules-
 
      ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Backend.git
+     git clone https://github.com/dreamdev0508/Stackoverflow-Clone-Backend.git
      cd Stackoverflow-Clone-Backend
 
      npm install
@@ -71,7 +71,7 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
    - Clone the code & install the modules-
 
      ```
-     git clone https://github.com/Mayank0255/Stackoverflow-Clone-Frontend.git
+     git clone https://github.com/dreamdev0508/Stackoverflow-Clone-Frontend.git
      cd Stackoverflow-Clone-Frontend
 
      npm install
@@ -79,7 +79,7 @@ There are two ways to setup the project: manually or using the Dockerfile. Read 
 
    - Run the client index `npm start`.
    
-   __OPTIONAL (Recommended For Frontend Developers):__ Can just change the path [here](https://github.com/Mayank0255/Stackoverflow-Clone-Frontend/blob/53b64c37981c618802547cd17483525532de83f0/src/config/index.js#L6) to this `https://stackoverflow-clone-backend.herokuapp.com`
+   __OPTIONAL (Recommended For Frontend Developers):__ Can just change the path [here](https://github.com/dreamdev0508/Stackoverflow-Clone-Frontend/blob/53b64c37981c618802547cd17483525532de83f0/src/config/index.js#L6) to this `https://stackoverflow-clone-backend.herokuapp.com`
    Now, it will hit PROD
 
 Let me know if you are interested and would want me to assign it to you
